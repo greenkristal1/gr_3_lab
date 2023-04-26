@@ -1,0 +1,24 @@
+﻿  camera.cpp
+D:\угату\2_курс\графика\ogldev-master\tutorial16\camera.cpp(46,33): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\camera.cpp(50,33): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\camera.cpp(57,24): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\camera.cpp(61,32): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\camera.cpp(65,17): error C2065: M_PI: необъявленный идентификатор
+  math_3d.cpp
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(43,37): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(43,17): error C2737: "SinHalfAngle": необходимо инициализировать объект const
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(44,37): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(44,17): error C2737: "CosHalfAngle": необходимо инициализировать объект const
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(74,21): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(74,17): error C2737: "x": необходимо инициализировать объект const
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(75,21): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(75,17): error C2737: "y": необходимо инициализировать объект const
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(76,21): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(76,17): error C2737: "z": необходимо инициализировать объект const
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(124,35): error C2065: M_PI: необъявленный идентификатор
+D:\угату\2_курс\графика\ogldev-master\tutorial16\math_3d.cpp(124,17): error C2737: "tanHalfFOV": необходимо инициализировать объект const
+  pipeline.cpp
+  texture.cpp
+C:\Users\proto\Downloads\texture.cpp(24,86): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+  tut16.cpp
+  Создание кода...
